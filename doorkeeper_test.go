@@ -19,7 +19,7 @@ package ristretto
 import (
 	"testing"
 
-	"github.com/dgraph-io/ristretto/z"
+	"github.com/Yomiji/ristretto/z"
 )
 
 func TestDoorkeeper(t *testing.T) {

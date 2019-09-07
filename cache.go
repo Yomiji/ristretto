@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"github.com/dgraph-io/ristretto/z"
+	"github.com/Yomiji/ristretto/z"
 )
 
 // Cache ties everything together. The three main components are:

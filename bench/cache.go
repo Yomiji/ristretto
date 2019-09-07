@@ -25,7 +25,7 @@ import (
 	"github.com/VictoriaMetrics/fastcache"
 	"github.com/allegro/bigcache"
 	"github.com/coocood/freecache"
-	"github.com/dgraph-io/ristretto"
+	"github.com/Yomiji/ristretto"
 	goburrow "github.com/goburrow/cache"
 	"github.com/golang/groupcache/lru"
 )

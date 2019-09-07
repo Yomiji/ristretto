@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dgraph-io/ristretto/bench/sim"
+	"github.com/Yomiji/ristretto/bench/sim"
 )
 
 const (
